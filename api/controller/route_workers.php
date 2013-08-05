@@ -52,7 +52,7 @@ class Route_Workers {
                     'html' =>
                     "Hi!<br/>
 <br/>
-Thank you for downloading Insta, the best Instagram viewer for the iPad. Please let us know what you think through our Facebook page: http://facebook.com/insta<br/>
+Thank you for downloading Insta, the best Instagram viewer for the iPad. Please let us know what you think through our Facebook page: http://facebook.com/appinsta<br/>
 <br/>
 Your access code is: $invite <br/>
 <br/>
@@ -61,7 +61,7 @@ Insta<br/>
                     'text' =>
                     "Hi!
 
-Thank you for downloading Insta, the best Instagram viewer for the iPad. Please let us know what you think through our Facebook page: http://facebook.com/insta
+Thank you for downloading Insta, the best Instagram viewer for the iPad. Please let us know what you think through our Facebook page: http://facebook.com/appinsta
 
 Your access code is: $invite
 
